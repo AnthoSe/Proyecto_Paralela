@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ServerDataset/ServerDataset.vcxproj" Id="956f412a-80c8-419d-8bc2-ea09d7ad1c30" />
+</Solution>
